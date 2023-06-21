@@ -1,1 +1,1 @@
-(https://ezigo96.github.io/index.html)
+https://ezigo96.github.io/index.html
