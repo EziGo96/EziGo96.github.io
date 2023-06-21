@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-somshubhraroy165.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=42
-somshubhraroy165.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1687330033|lej0qceknZKx
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a756435fb322111e7a2ca36c9a1a5e5703d6080cd35a934b7dd1144629a157720cbb84f6fddd0e59bf437c33279622d652
-somshubhraroy165.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
-
